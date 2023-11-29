@@ -19,7 +19,7 @@ We provide instructions below for employing the CapsFus-LLaMA model to generate 
 ### Installation
 
 ```sh
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ### Data format
