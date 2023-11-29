@@ -1,0 +1,7 @@
+model_name: BAAI/CapsFus-LLaMA
+batch_size: 4
+text_input_max_length: 256
+num_beams: 3
+max_new_tokens: 80
+data_file: ./data/example_data.json
+save_path: ./data
