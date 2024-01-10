@@ -1,5 +1,6 @@
 <div align='center'>
 <h1><a href="https://arxiv.org/abs/2310.20550">CapsFusion: Rethinking Image-Text Data at Scale</a></h1>
+
 [Qiying Yu](https://yqy2001.github.io)<sup>1,2*</sup>, [Quan Sun](https://github.com/Quan-Sun)<sup>2*</sup>, [Xiaosong Zhang](https://github.com/zhangxiaosong18)<sup>2</sup>, [Yufeng Cui](https://scholar.google.com/citations?user=5Ydha2EAAAAJ&hl=en&oi=ao)<sup>2</sup>, [Fan Zhang](https://scholar.google.com/citations?user=VsJ39HMAAAAJ)<sup>2</sup><br>[Yue Cao](http://yue-cao.me)<sup>3</sup>, [Xinlong Wang](https://www.xloong.wang/)<sup>2</sup>, [Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm)<sup>1</sup>
 
 <sup>1</sup> [Tsinghua, AIR](https://air.tsinghua.edu.cn/en/), <sup>2</sup> [BAAI](https://www.baai.ac.cn/english.html), <sup>3</sup> [Independent Researcher](http://yue-cao.me)<br><sup>*</sup> Equal Contribution
