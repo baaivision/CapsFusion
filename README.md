@@ -10,7 +10,7 @@ CapsFusion is a straightforward and scalable framework for generating high-quali
 
 ## 🚀 News
 
-* `Mon 9, 2023`: Release the CapsFusion 120M caption data.
+* `Jan 9, 2024`: Release the CapsFusion 120M caption data.
 * `Nov 29, 2023`: Release the model and distributed inference code of CapsFus-LLaMA.
 
 ## Data
