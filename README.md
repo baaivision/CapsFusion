@@ -10,6 +10,7 @@ CapsFusion is a straightforward and scalable framework for generating high-quali
 
 ## 🚀 News
 
+* `Tue 27, 2024`: CapsFusion is accepted by CVPR 2024! 🎉🍻
 * `Jan 9, 2024`: Release the CapsFusion 120M caption data.
 * `Nov 29, 2023`: Release the model and distributed inference code of CapsFus-LLaMA.
 
